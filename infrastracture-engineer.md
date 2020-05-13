@@ -22,6 +22,7 @@ Above all, you have a pragmatic approach to testing, DevOps and systems observab
 
 👌 ***Nice to have:***
 
+- Experience with Google Cloud: we leverage Firebase for our mobile analytics and deployments: it would be great to use IaC here as well
 - IoT knowledge, especially within AWS tooling
 - Experience with event driven systems
 - Polumi, CDK and Clouformation: aka alternatives to Terraform
