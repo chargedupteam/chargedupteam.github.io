@@ -1,6 +1,9 @@
 Currently Open Positions in the tech team:
 
 - [Backend Engineer](backend-engineer.md)
+- [Data Engineer](data-engineer.md)
+- [Infrastracture Engineer](infrastracture-engineer.md)
+- [Android Engineer](android-engineer.md)
 
 ![chargedup](images/chargedup.png)
 
