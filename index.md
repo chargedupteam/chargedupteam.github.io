@@ -2,20 +2,20 @@ Currently Open Positions in the tech team:
 
 - [Backend Engineer](backend-engineer.md)
 
-![alt text](images/chargedup.png)
+![chargedup](images/chargedup.png)
 
 ![AWS](images/aws.png)
 
-![alt text](images/ddb.png)
+![dynamodb](images/ddb.png)
 
-![alt text](images/es.png)
+![elastic search](images/es.png)
 
-![alt text](images/kotlin.png)
+![kotlin](images/kotlin.png)
 
-![alt text](images/lambda.png)
+![lambdas](images/lambda.png)
 
-![alt text](images/node.png)
+![node.js](images/node.png)
 
-![alt text](images/sls.png)
+![serverless framework](images/sls.png)
 
-![alt text](images/swift.png)
+![swift](images/swift.png)
