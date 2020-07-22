@@ -3,7 +3,12 @@
 
 Our tech team uses Scrum-ban, balancing planned product-led sprints with ad hoc efforts, including brand partnerships and growth marketing campaigns. Despite complexity behind the scenes, the goal is to ensure an easy rental — not a novelty, but a utility users can rely on. We strive to think ahead and future-proof, driving a scalable, accessible, end-to-end experience as we internationalize. It’s an exciting time to join; we’re scaling our network quickly and need our tech to not just keep up but rather lead the way in enabling opportunities. We hire self-motivated, proactive, energetic people; we’re less about hitting targets and more about truly solving a user’s need. If you’re passionate about serverless platforms, problem-solving, writing code you’re proud of and having a little fun along the way, let’s talk.
 
-Currently Open Positions in the tech team:
+Currently high priority open positions in the tech team:
+
+- [IOS Engineer](ios-engineer.md)
+- [FullStack Engineer](fullstack-engineer.md)
+
+Contact us if you are interested working as, we are always keen meeting interesting candidates:
 
 - [Backend Engineer](backend-engineer.md)
 - [Data Engineer](data-engineer.md)
