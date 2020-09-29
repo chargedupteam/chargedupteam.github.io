@@ -18,7 +18,7 @@ You'll implement various web based solutions working along side the CTO and the 
 
 Above all, you have a pragmatic approach to testing, DevOps and systems observability.
 
-👌 ***Nice to have:***
+👌 **_Nice to have:_**
 
 - IoT knowledge, especially within AWS tooling
 - As mentioned above we use a LOT DynamoDB, so confidence in designing data for this particular data store would be really nice
